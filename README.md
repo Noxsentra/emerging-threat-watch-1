@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/theworker02/emerging-threat-watch-1"><img alt="Repository" src="https://img.shields.io/badge/repo-emerging--threat--watch--1-22D3EE?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Noxsentra/emerging-threat-watch-1"><img alt="Repository" src="https://img.shields.io/badge/repo-emerging--threat--watch--1-22D3EE?style=flat-square&logo=github&logoColor=white"/></a>
   <img alt="Families" src="https://img.shields.io/badge/families-66-3B82F6?style=flat-square"/>
   <img alt="IC3 filed" src="https://img.shields.io/badge/IC3%20filed-9%20packages-10B981?style=flat-square"/>
   <img alt="Scope" src="https://img.shields.io/badge/scope-defensive%20CTI%20only-0EA5E9?style=flat-square"/>
@@ -152,6 +152,6 @@ Buyer-facing diligence materials live in [docs/acquisition/](./docs/acquisition/
 | license | See repository `LICENSE` for terms |
 | status maintained | Actively kept in the @theworker02 portfolio |
 | version 1.0.0 | Documentation and brand completeness milestone |
-| pages enabled | Site intended at `https://theworker02.github.io/emerging-threat-watch-1/` |
+| pages enabled | Site intended at `https://Noxsentra.github.io/emerging-threat-watch-1/` |
 
-Detailed narrative for the stable line lives in [CHANGELOG.md](./CHANGELOG.md) and the [v1.0.0 GitHub Release](https://github.com/theworker02/emerging-threat-watch-1/releases/tag/v1.0.0).
+Detailed narrative for the stable line lives in [CHANGELOG.md](./CHANGELOG.md) and the [v1.0.0 GitHub Release](https://github.com/Noxsentra/emerging-threat-watch-1/releases/tag/v1.0.0).
