@@ -1,7 +1,7 @@
 # Acquisition Brief â€” emerging-threat-watch-1
 
 **Date:** 2026-09-22  
-**Repository:** https://github.com/theworker02/emerging-threat-watch-1  
+**Repository:** https://github.com/Noxsentra/emerging-threat-watch-1  
 **Default branch:** `main`  
 **Primary language:** HTML  
 **Status:** Diligence briefing only. **No acquisition has occurred** by virtue of this file.  
@@ -26,7 +26,7 @@
 | Item | Detail |
 |------|--------|
 | Product | emerging-threat-watch-1 |
-| Repo | `theworker02/emerging-threat-watch-1` |
+| Repo | `Noxsentra/emerging-threat-watch-1` |
 | Language | HTML |
 | Open source? | **No** â€” proprietary |
 | Rightsholder | theworker02 |
